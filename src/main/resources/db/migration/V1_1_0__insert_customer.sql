@@ -1,0 +1,1 @@
+INSERT INTO customer (first_name, last_name, country) values('Mario', 'Rossi', 'Italy')
